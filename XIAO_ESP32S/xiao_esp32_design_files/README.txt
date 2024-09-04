@@ -1,0 +1,1 @@
+SEEED Xiao model & Case by 22v10 on Thingiverse: https://www.thingiverse.com/thing:5542938

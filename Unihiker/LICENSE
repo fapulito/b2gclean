@@ -1,0 +1,5 @@
+Working to ensure all code in this directory can be covered via MIT License, unsure how this will finish.
+
+The OpenCV library is licensed under two different licenses depending on the version of the library.
+
+The rationale behind changing OpenCV license from 3-clause BSD to Apache 2 is explained in this post - https://opencv.org/opencv-is-to-change-the-license-to-apache-2/

@@ -1,0 +1,1 @@
+The code in the Unihiker directory is being checked for licenses and may have restrictions for commercial use.
