@@ -1,7 +1,9 @@
-# California Vision Submission for Build2Gether 2.0 Hackathon 
-## Hackster.io Build2Gether Submission | Embedded AI Vision Suite
+# Sight Buddy - Make AI Your Eyes  
+## Hackster.io Build2Gether 2.0 Hackathon Submission 
+## Embedded AI Vision Suite by California Vision 
+## New features will be added to this repository, Sight Buddy is in development.
 
-### Superbox BOM
+### Superbox Contents
 
 Buy It $79.90 : [UNIHIKER - IoT Python Single Board Computer with Touchscreen - DFRobot](https://www.dfrobot.com/product-2691.html)
 
