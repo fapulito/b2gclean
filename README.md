@@ -1,7 +1,7 @@
 # Sight Buddy - Make AI Your Eyes  
 ## Hackster.io Build2Gether 2.0 Hackathon Submission 
 ## Embedded AI Vision Suite by California Vision 
-## New features will be added to this repository, Sight Buddy is in development.
+## Sight Buddy is in development and planning a future package release.
 
 ### Superbox Contents
 
